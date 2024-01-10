@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Avtajev</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanavtajev&label=Profile%20views&color=0e75b6&style=flat" alt="sultanavtajev" /> </p>
+
 
 - 🔭 I’m currently working on [Personal CV-portfolio](https://github.com/sultanavtajev/CV-prosjekt.git)
 
@@ -30,6 +30,11 @@
 <h3 align="left">Total time coded since Dec 13 2021:</h3>
 <p align="left"><a href="https://wakatime.com/@1897740b-8b23-4d6f-8a2f-2c1f14bf7598"><img src="https://wakatime.com/badge/user/1897740b-8b23-4d6f-8a2f-2c1f14bf7598.svg" alt="Total time coded since Dec 13 2021" /></a>
 
+<h3 align="left">Profile views:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanavtajev&label=Profile%20views&color=0e75b6&style=flat" alt="sultanavtajev" /> </p>
+
+<h3 align="left">Most used languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanavtajev&show_icons=true&locale=en&layout=compact" alt="sultanavtajev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanavtajev&show_icons=true&locale=en" alt="sultanavtajev" /></p>
+<h3 align="left">Github Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sultanavtajev&show_icons=true&locale=en" alt="sultanavtajev" /></p>
