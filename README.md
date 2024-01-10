@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanavtajev&label=Profile%20views&color=0e75b6&style=flat" alt="sultanavtajev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanavtajev" alt="sultanavtajev" /></a> </p>
-
 - 🔭 I’m currently working on [Personal CV-portfolio](https://github.com/sultanavtajev/CV-prosjekt.git)
 
 - 🌱 I’m currently learning **React.js, ML and AI**
