@@ -34,7 +34,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanavtajev&label=Profile%20views&color=0e75b6&style=flat" alt="sultanavtajev" /> </p>
 
 <h3 align="left">Most used languages:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanavtajev&show_icons=true&locale=en&layout=compact" alt="sultanavtajev" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanavtajev&show_icons=true&locale=en&layout=compact" alt="sultanavtajev" /></p>
 
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sultanavtajev&show_icons=true&locale=en" alt="sultanavtajev" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanavtajev&show_icons=true&locale=en" alt="sultanavtajev" /></p>
